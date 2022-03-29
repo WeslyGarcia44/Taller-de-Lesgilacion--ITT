@@ -1,0 +1,15 @@
+[![logo-ITT-2022-1-2.png](https://i.postimg.cc/76Hnpms3/logo-ITT-2022-1-2.png)](https://postimg.cc/bG5nnHjr)
+TECNOLOGICO NACIONAL DE MEXICO
+INSTITUTO TECNOLOGICO DE TIJUANA
+
+ING. INFORMATICA
+
+# TALLER DE LEGISLACION INFORMATICA
+EQUIPO 5
+INTEGRANTES:
+-GARCIA VAZQUEZ WESLY
+
+Docente:
+DANIELA ADRIANA SANCHEZ VIZCARRA
+
+[![imagen-2022-03-28-210041.png](https://i.postimg.cc/T11dHLzd/imagen-2022-03-28-210041.png)](https://postimg.cc/ctqGvH12)
