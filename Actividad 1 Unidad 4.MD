@@ -1,3 +1,12 @@
+[![logo-ITT-2022-1-2.png](https://i.postimg.cc/76Hnpms3/logo-ITT-2022-1-2.png)](https://postimg.cc/bG5nnHjr)
+# TECNOLOGICO NACIONAL DE MEXICO
+## INSTITUTO TECNOLOGICO DE TIJUANA
+### ING. INFORMATICA
+# TALLER DE LEGISLACION INFORMATICA
+-GARCIA VAZQUEZ WESLY
+Docente:
+DANIELA ADRIANA SANCHEZ VIZCARRA
+
 | Pais | Normativa o Ley |  Porcentaje pirateria |
 | ------------- | ------------------- | ---------|
 | Rusia  | La Federación Rusa ha aprobado un decreto que elimina las compensaciones a sus ciudadanos y empresas por el uso de patentes de los estados incluidos en su lista de "países hostiles"  |     95%         |
