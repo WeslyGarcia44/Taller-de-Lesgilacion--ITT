@@ -7,7 +7,7 @@
 Docente:
 DANIELA ADRIANA SANCHEZ VIZCARRA
 
-| Pais | Normativa o Ley |  Porcentaje pirateria | Enlace Articulo  |
+| #Pais | #Normativa o Ley |  #Porcentaje pirateria | #Enlace Articulo  |
 | ------------- | ------------------- | ---------| -------------- |
 | Rusia  | La Federación Rusa ha aprobado un decreto que elimina las compensaciones a sus ciudadanos y empresas por el uso de patentes de los estados incluidos en su lista de "países hostiles"  |     95%         | [Enlace](https://pressover.news/noticias/loop-hero-pirateando-para-rusia/)
 | Alemania  | Ley Federal de Protección de Datos: Aprobada el 30 de junio de 2017, vigente desde el 25 de mayo de 2018, y modificada por última vez por la Ley para adaptar la Ley de Protección de Datos al Reglamento (UE) 2016/679 (RGPD).|       20%       | [Enlace](https://cso.computerworld.es/empresas/alemania-advierte-de-las-posibilidades-de-pirateria-en-el-software-de-kaspersky)|
