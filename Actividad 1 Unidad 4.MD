@@ -3,6 +3,5 @@
 | Rusia  | La Federación Rusa ha aprobado un decreto que elimina las compensaciones a sus ciudadanos y empresas por el uso de patentes de los estados incluidos en su lista de "países hostiles"  |     95%         |
 | Alemania  | Contenido de la celda  |       20%       |
 | India  | Las leyes cibernéticas en India han allanado el camino para el comercio electrónico y la gobernanza electrónica en el país al garantizar la máxima conectividad y los mínimos riesgos de ciberseguridad. Además, para mejorar el alcance y expandir el uso de medios digitales  |         91%     |
-| China  | La Ley de Ciberseguridad fue aprobada inicialmente por el Congreso Nacional del Pueblo en noviembre de 2016. Reforma la gestión de datos y las regulaciones de uso de Internet en China e impone nuevos requisitos para la seguridad de redes y sistemas.
-   |           94%   |
+| China  | La Ley de Ciberseguridad fue aprobada inicialmente por el Congreso Nacional del Pueblo en noviembre de 2016. Reforma la gestión de datos y las regulaciones de uso de Internet en China e impone nuevos requisitos para la seguridad de redes y sistemas.|           94%   |
 | Mexico  | Ley federal del derecho de autor (LFDA) Publicada en el Diario Oficial de la Federación el día 24 de Diciembre de 1996 por el presidente Ernesto Zedillo Ponce de León, El objeto de la misma es la protección de las obras originales susceptibles a ser reproducidas o divulgadas por cualquier medio o forma.  |     75.1%         |
