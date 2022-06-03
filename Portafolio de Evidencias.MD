@@ -19,14 +19,14 @@ DANIELA ADRIANA SANCHEZ VIZCARRA
 
 ### Introducción
 En este trabajo veremos una recopilación de los trabajos realizados a lo largo del semestre, podemos encontrar en cada una de las actividades un resumen de lo visto en la unidad. 
- [![image.png](https://i.postimg.cc/DwBFWz7b/image.png)](https://postimg.cc/zyb468bJ)
+
 
  #### Actividad 1 Unidad 1
 
 | Norma | Características |  Sanción | Ejemplo  |
 | ------------- | ------------------- | ---------| -------------- |
 | Jurídicas  |Reglas de conducta establecidos por una autoridad para regular la conducta humana.| *Economica * Privar de Libertad| Robo y/o hurto de un bien |
-| Sociales |Permiten a la sociedad desarrollar una vida social más amena y cordial (cortesía) o, bien, conducirnos conforme a ciertas reglas establecidas para circunstancias y momentos determinados.| *Rechazo de la sociedad * No ser aceptado en un grupo social|
+| Sociales |Permiten a la sociedad desarrollar una vida social más amena y cordial (cortesía) o, bien, conducirnos conforme a ciertas reglas establecidas para circunstancias y momentos determinados.| * Rechazo de la sociedad * No ser aceptado en un grupo social| * Ser mal visto por tus vecinos. |
 |  Morales   | Conjunto de reglas que indica lo que está bien o mal, lo que debemos o no hacer en nuestra relación con la sociedad. |  *Similitud con las sanciones de normas sociales * Ser señalado por individuos de una sociedad | * Hablar mal del los demas * Ser "doble cara"| 
 | Religiosas  | Son reglas de conducta en las que se establece que está permitido y que está prohibido. |  * Ser señalado por los altos cargos de la institución religiosa. |  * Romper ayuno * Comer carne en cuaresma.| 
 
