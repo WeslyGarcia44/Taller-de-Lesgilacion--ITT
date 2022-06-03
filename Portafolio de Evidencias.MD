@@ -114,4 +114,8 @@ Según cuenta Fifield a EL PAÍS, no tiene datos de que en los últimos años ha
 
 Pascual, M. G. (2022, May 23). Lazarus, los cibercriminales que roban y extorsionan para el Amado Líder de Corea del Norte. Ediciones EL PAÍS S.L. https://elpais.com/tecnologia/2022-05-23/lazarus-los-cibercriminales-que-roban-y-extorsionan-para-el-amado-lider-de-corea-del-norte.html 
 
+#### Conclusión
+
+Esta materia me resulto de mucha importancia debido a que, como parte de nuestra formación universitaria, es de mucha relevancia el conocer los derechos, obligaciones en el ámbito jurídico informático, esto nos ayudara al momento de ejercer como ingenieros.  
+
    
